@@ -1,6 +1,4 @@
-# [Paper Dashboard Angular](https://www.creative-tim.com/product/paper-dashboard-angular)
-[![version][version-badge]][CHANGELOG]
-[![license][license-badge]][LICENSE]
+
 
 ![alt text](https://s3.amazonaws.com/creativetim_bucket/products/58/original/opt_pd_angular_thumbnail.jpg "Paper Dashboard Free")
 
@@ -11,18 +9,10 @@ Paper Dashboard Angular is a Bootstrap Admin Template which combines soft colors
  Paper Dashboard Angular is built using the same design language as [Paper Kit](http://www.creative-tim.com/product/paper-kit), which you can use for the presentation pages of your website. You can easily use them together, or pick between them depending on the project you have.
 
 
-## Links:
-
-+ [Live Preview](http://pd-angular.creative-tim.com/dashboard)
-+ [Paper Dashboard PRO Angular](https://www.creative-tim.com/product/paper-dashboard-pro-angular)
-+ [Paper Kit - For Front End Development](https://www.creative-tim.com/product/paper-kit?ref=github-pd-angular)
 
 
-## Quick start
 
-Quick start options:
 
-- [Download from Creative Tim](https://www.creative-tim.com/product/paper-dashboard-angular).
 
 ## Terminal Commands
 
@@ -123,32 +113,3 @@ paper-dashboard-angular
 └── tslint.json
 ```
 
-## Useful Links
-
-More products from Creative Tim: <https://www.creative-tim.com/bootstrap-themes>
-
-Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
-
-Freebies: <https://www.creative-tim.com/products>
-
-Affiliate Program (earn money): <https://www.creative-tim.com/affiliates/new>
-
-Social Media:
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
-
-[CHANGELOG]: ./CHANGELOG.md
-
-[LICENSE]: ./LICENSE.md
-
-[version-badge]: https://img.shields.io/badge/version-1.0.1-blue.svg
-
-[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
